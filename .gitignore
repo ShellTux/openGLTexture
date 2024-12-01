@@ -511,4 +511,6 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/c,c++,premake-gmake,vim,visualstudio,visualstudiocode
 
+.clangd
 .direnv
+opengl-tex
